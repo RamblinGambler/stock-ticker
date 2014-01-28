@@ -1,0 +1,5 @@
+Stock.create!(symbol: 'AAPl', name: "Apple")
+Stock.create!(symbol: 'MSFT', name: "Microsoft")
+Stock.create!(symbol: 'GOOG', name: "Google")
+Stock.create!(symbol: 'TWTR', name: "Twitter")
+Stock.create!(symbol: 'FB', name: "Facebook")
